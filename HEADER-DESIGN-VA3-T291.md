@@ -26,7 +26,6 @@ Status : **incomplete**
 
 ## Search link
 ### WCAG compliance related to 2.1 AA
-* replace the search link (`class="searchicon" aria-label="search products"`) with a button element
 * replace the `<i>` element for scaffolding icons with the `<span>` element
 * when search is open focus is on the search input control (search entire store here)
 * keyboard focus cycles through the back arrow, search control and magnifying glass icon only
@@ -40,18 +39,21 @@ Status : **incomplete**
 ### Highly recommended usability suggestions 
 * it would be nice for screen reader users if they were provided that information that is on screen to avoid them having to load the search page to find there are no results
 * this feature could cause some confusion for people with cognitive disabilities, the way it takes over the whole screen with just a white background. It may appear to some that they have left the website or closed it somehow
+* replace the search link (`class="searchicon" aria-label="search products"`) with a button element
 
 Status : **incomplete**
 
 ## User dropdown
 ### WCAG compliance related to 2.1 AA
-* replace the link (`minilogin-toggle`) with a button element
 * add `aria-label="open login menu"` to the button element (`minilogin-toggle`)
 * add the attribute `aria-expanded` and toggle between values `"true"` and `"false"` when the dropdown is shown and hidden
 * add the attribute `aria-controls="minilogin-content-wrapper"`
 * when login menu is visible move focus to first menu item (My Account)
 * pressing tab and <kbd>Shift</kbd> + <kbd>Tab</kbd> cycles the focus through Hi Sande..., My Account, My Wishlist, Logout only
 * when the button (`minilogin-toggle`) is expanded change the `aria-label` text to `"close login menu"`
+
+### Highly recommended usability suggestions 
+* replace the link (`minilogin-toggle`) with a button element
 
 Status : **incomplete**
 
