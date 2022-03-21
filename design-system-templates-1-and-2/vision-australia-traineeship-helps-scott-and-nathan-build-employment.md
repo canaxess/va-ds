@@ -24,7 +24,8 @@ Navigation of page elements via keyboard commands was applied using JAWS v2021 a
 * Navigation via lists
 ### Recorded behaviour
 - <kbd>Tab</kbd> key becomes stuck when reaching side navigation and won't progress any further
-- navigating via list elements focus moves to hidden side navigation items
+- Cannot open side menu
+- Navigating via list elements focus moves to hidden side navigation items
 - Several unclear file format links i.e. _PDF (7.74 KB)_
 - Unclear table cell right arrow link text
 - Cannot reach any of the top menu links _Menu, Search, Display, Telephone, Donate now_
