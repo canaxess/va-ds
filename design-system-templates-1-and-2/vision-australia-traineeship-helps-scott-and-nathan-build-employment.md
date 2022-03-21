@@ -14,7 +14,7 @@
 ## Future proofing type suggestions
 * Replace `<div role="navigation">` in the footer with a `<nav>` element
 * Place the breadcrumb links within a `<nav>` element
-* Ensure multiple `<nav>` elements have an aria-label attribute with a unique name for each navigation region
+* Provide multiple `<nav>` elements with an aria-label attribute and a unique name for each navigation region
 
 ## Screen reader testing
 Navigation of page elements via keyboard commands was applied using JAWS v2021 and NVDA v2020.
