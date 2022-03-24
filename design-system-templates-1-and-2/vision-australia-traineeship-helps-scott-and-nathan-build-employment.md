@@ -10,7 +10,6 @@
 ## Highly recommended usability suggestions for screen reader users
 * Heading elements are applied out of sequence
 * Reduce the word count in headings, as an example **Navigation card heading which runs across two or three lines** is a long heading
-* Individual Word and PDF document links do not provide sufficient text to be understood on their own outside of the container i.e. _Word (9 KB)_
 ## Future proofing type suggestions
 * Replace `<div role="navigation">` in the footer with a `<nav>` element
 * Place the breadcrumb links within a `<nav>` element
