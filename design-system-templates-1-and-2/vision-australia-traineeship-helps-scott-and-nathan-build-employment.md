@@ -9,6 +9,7 @@
 * The Accordion is not applying ARIA attributes correctly. The `aria-expanded` attribute must be toggled from `true` to `false`
 ## Highly recommended usability suggestions for screen reader users
 * Heading elements are applied out of sequence
+* Individual Word and PDF document links do not provide sufficient text to be understood on their own outside of the container i.e. _Word (9 KB)_. Each link within each card should announce in the following order _'publication title (extracted from card header), file format, file size'_. e.g. **Your NDIS success planning guide PDF 1 point 5 megabytes**
 * Reduce the word count in headings, as an example **Navigation card heading which runs across two or three lines** is a long heading
 ## Future proofing type suggestions
 * Replace `<div role="navigation">` in the footer with a `<nav>` element
