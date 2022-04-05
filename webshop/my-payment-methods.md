@@ -5,3 +5,4 @@
 - **Credit or debit card** do not use the `autocomplete` attribute for user edittable inputs on **Add new credit/debit card**
 ## Highly recommended usability suggestions for screen reader users
 ## Future proofing type suggestions
+- consider the `<title>` text convention of **page name | website name**
