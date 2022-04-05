@@ -3,3 +3,4 @@
 - star reviews use colour only to indicate value
 ## Highly recommended usability suggestions for screen reader users
 ## Future proofing type suggestions
+- headings are not in a sequential order
