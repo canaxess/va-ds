@@ -4,3 +4,4 @@
 - **First name, Last name, Email, Current password, Mobile number** do not use the `autocomplete` attribute for user edittable inputs
 ## Highly recommended usability suggestions for screen reader users
 ## Future proofing type suggestions
+- consider the `<title>` text convention of **page name | website name**
