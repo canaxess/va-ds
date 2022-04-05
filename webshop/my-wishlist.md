@@ -5,3 +5,4 @@
 ## Future proofing type suggestions
 - item text i.e. **Micro-Speak Plus digital voice recorder** should be a heading element as new content is introduced
 - consider containing the footer links within the `<nav>` element
+- consider the `<title>` text convention of **page name | website name**
