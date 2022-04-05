@@ -6,3 +6,4 @@
 ## Highly recommended usability suggestions for screen reader users
 ## Future proofing type suggestions
 - allow the social media icons and the dismiss 'X' on the stock clearance banner to resize proportionally when the text spacing bookmarklet is applied
+- ensure headings are in sequential order
