@@ -5,6 +5,7 @@
 - **Amount, Recipient name, Recipient email** mandatory controls are not clearly identified
 - an inline validation message does not exist for **Amount** input
 ## Highly recommended usability suggestions for screen reader users
+- none
 ## Future proofing type suggestions
 - allow the social media icons and the dismiss 'X' on the stock clearance banner to resize proportionally when the text spacing bookmarklet is applied
 - ensure headings are in sequential order
