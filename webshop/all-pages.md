@@ -6,3 +6,4 @@ Whilst stock lasts** replace this with the generic `<span>` element
 ## Highly recommended usability suggestions for screen reader users
 - Consider placing all the footer navigation links into a `<nav>` landmark region
 ## Future proofing type suggestions
+- none
