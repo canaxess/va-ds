@@ -20,7 +20,7 @@ Navigation of page elements via keyboard commands was applied using:
 - payment is processed
 - redirected to order received page
 
-<br>note. general difficulty navigating with FireFox and JAWS
+<br>**note.** general difficulty navigating with FireFox and JAWS
 ## Purchasing a product as a guest **FAIL**
 - all controls are clearly labelled
 - address autosuggest does not announce returned results
