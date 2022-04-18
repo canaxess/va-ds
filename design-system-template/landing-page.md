@@ -5,7 +5,7 @@
 - Incorrect ALT text of `img` on all images **4 column content block with image area**
 - Incorrect ALT text of `img` on all images **Navigation card block heading is 1-2 lines**
 - Incorrect ALT text of `img` on accompanying image **Image Block RHS Heading Runs Across 1-2 Lines**
-- Dates and titles do not reflow and obscure text content on the cards **News/Blog component with images, News/Blog component no images, Events Component with no images** when WCAG 2.1 AA text spacing requirements are applied
+- Dates and titles do not reflow and obscure text content on the cards **News/Blog component with images**, **News/Blog component no images**, **Events Component with no images** when WCAG 2.1 AA text spacing requirements are applied
 
 ## Highly recommended usability suggestions for screen reader users
 
