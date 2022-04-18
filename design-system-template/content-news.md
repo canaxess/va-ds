@@ -4,6 +4,7 @@
 ## Highly recommended usability suggestions for screen reader users
 
 ## Future proofing type suggestions
+- Unecessary ALT text below Embedded Map on the decorative icon images **View Google Map** and **Share location**
 
 ## Screen reader testing
 Navigation of page elements via keyboard commands was applied using JAWS v2021 and NVDA v2020.
