@@ -1,5 +1,10 @@
 # LANDING PAGE
 ## WCAG compliance related to 2.1 AA
+- Incorrect ALT text of `dss` on image background quote to **Stella, Vision Australia client**
+- Incorrect ALT text of `img` on image background quote to **The Sea, The Sea, The Glorious Sea….** x2
+- Incorrect ALT text of `img` on all images **4 column content block with image area**
+- Incorrect ALT text of `img` on all images **Navigation card block heading is 1-2 lines**
+- Incorrect ALT text of `img` on accompanying image **Image Block RHS Heading Runs Across 1-2 Lines**
 
 ## Highly recommended usability suggestions for screen reader users
 
