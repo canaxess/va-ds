@@ -1,9 +1,14 @@
 # LISTING NEWS
 ## WCAG compliance related to 2.1 AA
+- Links within the body content change colour only when in keyboard focus
+- Dates do not reflow and obscure text content on the cards when WCAG 2.1 AA text spacing requirements are applied
+- Phone number link has `aria-label="phone no"`
 
 ## Highly recommended usability suggestions for screen reader users
 
 ## Future proofing type suggestions
+- Irregular heading levels applied, `<h3>` on the cards with no preceeding `<h2>`
+- Consider rephrasing the pagination links with the number followed by the ordinal indicator then text _2nd page_, _3rd page_
 
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
