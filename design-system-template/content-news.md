@@ -1,10 +1,16 @@
 # CONTENT NEWS
 ## WCAG compliance related to 2.1 AA
+- A HTML table is used on the embedded Google Maps for presentation purposes without the semantics being suppressed
+- Links within the body content change colour only when in keyboard focus
+- When the menu is open <kbd>Shift</kbd> + <kbd>Tab</kbd> causes the keyboard focus to leave the menu
+- Table cell column **URL of Row** links use an icon and have no link text
+- **On this page** side links have no keyboard focus effect
 
 ## Highly recommended usability suggestions for screen reader users
 
 ## Future proofing type suggestions
 - Unecessary ALT text below Embedded Map on the decorative icon images **View Google Map** and **Share location**
+- Irregular heading levels applied, `<h5>` is used for **On this page** with no preceeding lower heading level
 
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
