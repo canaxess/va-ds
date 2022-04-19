@@ -19,7 +19,7 @@
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 
-### Notes
+### Observations
 |  | Element  | Notes   |
 |:-:|:-:|---|
 | Chrome & NVDA | Headings  | The heading after **Current vacancies** is unlabelled and returns `complementary landmark navigation landmark Side Navigation heading level 3`  |
