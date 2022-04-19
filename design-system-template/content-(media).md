@@ -1,9 +1,14 @@
 # CONTENT (MEDIA)
 ## WCAG compliance related to 2.1 AA
+- Links within the body content change colour only when in keyboard focus
+- When the menu is open <kbd>Shift</kbd> + <kbd>Tab</kbd> causes the keyboard focus to leave the menu
+- Phone number link has `aria-label="phone no"`
+- **On this page** side links have no keyboard focus effect
 
 ## Highly recommended usability suggestions for screen reader users
 
 ## Future proofing type suggestions
+- Irregular heading levels applied, a `<h5>`**On this page** followed by `<h2>`**Video Title**
 
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
