@@ -5,7 +5,7 @@
 - Google Map has no iframe title text
 - When the menu is open <kbd>Shift</kbd> + <kbd>Tab</kbd> causes the keyboard focus to leave the menu
 - Table cell column **URL of Row** links use an icon and have no link text
-- **On ths page** side links have no keyboard focus effect
+- **On this page** side links have no keyboard focus effect
 
 ## Highly recommended usability suggestions for screen reader users
 
