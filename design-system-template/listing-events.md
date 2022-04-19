@@ -16,6 +16,9 @@
 - Irregular heading levels applied, `<h3>` on the cards with no preceeding `<h2>`
 - Insufficient and verbose page title
 - Consider rephrasing the pagination links with the number followed by the ordinal indicator then text _2nd page_, _3rd page_
+- Consider applying the `<time>` elements when displaying dates
+- Consider wrapping each card element within a `<li>` element
+- Consider using an aria-live region with `role="status"` to output when a page has re-sorted
 
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
