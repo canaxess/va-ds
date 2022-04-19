@@ -1,9 +1,21 @@
 # LISTING EVENTS
 ## WCAG compliance related to 2.1 AA
+- Keyword search input contorl has no accessible name
+- Date format contraint for **Min**, **Max** is not provided programmatically
+- **Displaying 1 - 9 of 51** uses the style `view-header` but does not use header elements
+- Links within the body content change colour only when in keyboard focus
+- **Topic**, **Applies to**, **Keyword**, **Date Range** not visible when zoomed to 400%
+- **Audio Described** tag does not reflow, text content on the cards is obscured when WCAG 2.1 AA text spacing requirements are applied
+-  **Min**, **Max** datepicker control is not keyboard accessible
+-  Phone number link has `aria-label="phone no"`
 
 ## Highly recommended usability suggestions for screen reader users
 
 ## Future proofing type suggestions
+- Typo **Short by** when zoomed to 400%
+- Irregular heading levels applied, `<h3>` on the cards with no preceeding `<h2>`
+- Insufficient and verbose page title
+- Consider rephrasing the pagination links with the number followed by the ordinal indicator then text _2nd page_, _3rd page_
 
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
