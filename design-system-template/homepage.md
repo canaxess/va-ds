@@ -1,5 +1,6 @@
 # HOMEPAGE
 ## WCAG compliance related to 2.1 AA
+- Links within the body content change colour only when in keyboard focus
 
 ## Highly recommended usability suggestions for screen reader users
 
