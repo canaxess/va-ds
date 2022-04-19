@@ -8,6 +8,10 @@
 - Dates and titles do not reflow and obscure text content on the cards **News/Blog component with images**, **News/Blog component no images**, **Events Component with no images** when WCAG 2.1 AA text spacing requirements are applied
 - Heading level of `<h5>` is applied to **Default tag** where no new content is introduced
 - YouTube video at **Video block RHS heading is 1-2 lines** has insufficient iframe `title` text of **Youtube Video 2**
+- When the menu is open <kbd>Shift</kbd> + <kbd>Tab</kbd> causes the keyboard focus to leave the menu
+- Phone number link has `aria-label="phone no"`
+- **View transcript** and **share this video** links are unclear
+- Side menu does not follow aria authoring practices and contains no `aria-expanded="true|false"` attribute
 
 ## Highly recommended usability suggestions for screen reader users
 
