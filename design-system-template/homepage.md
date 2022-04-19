@@ -9,9 +9,9 @@
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :white_circle:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :white_circle:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :white_circle:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :white_circle:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :white_circle:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :white_circle:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
@@ -22,8 +22,9 @@
 ### Observations
 |  | Element  | Notes   |
 |:-:|:-:|---|
-| Chrome & NVDA | Headings  | The heading after **Current vacancies** is unlabelled and returns `complementary landmark navigation landmark Side Navigation heading level 3`  |
-| Edge & NVDA | Headings  | The heading after **Current vacancies** is unlabelled and returns `complementary landmark navigation landmark Side Navigation heading level 3`  |
-| FireFox & NVDA | Headings  | The heading after **Current vacancies** is unlabelled and returns `main landmark complementary landmark navigation landmark Side Navigation heading level 3`  |
+
+
+
+
 
 
