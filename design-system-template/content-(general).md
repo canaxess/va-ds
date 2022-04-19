@@ -12,6 +12,7 @@
 ## Future proofing type suggestions
 - Irregular heading levels applied, a `<h5>` **On this page** follows a `<h1>`
 - Several false positive HTML syntax errors identified
+- Verbose title text, consider more succinct text
 
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
