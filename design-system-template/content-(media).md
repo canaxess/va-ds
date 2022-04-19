@@ -9,6 +9,8 @@
 
 ## Future proofing type suggestions
 - Irregular heading levels applied, a `<h5>`**On this page** followed by `<h2>`**Video Title**
+- YouTube video has insufficient title text
+- Verbose title text, consider more succinct text
 
 ## Screen reader testing
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |Complex Controls |
