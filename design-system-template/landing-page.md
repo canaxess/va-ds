@@ -12,6 +12,8 @@
 - Phone number link has `aria-label="phone no"`
 - **View transcript** and **share this video** links are unclear
 - Side menu does not follow aria authoring practices and contains no `aria-expanded="true|false"` attribute
+- Links within the body content change colour only when in keyboard focus
+- Desktop menu expand link has no accessible name
 
 ## Highly recommended usability suggestions for screen reader users
 
