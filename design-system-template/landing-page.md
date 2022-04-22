@@ -44,3 +44,4 @@
 | All combinations | Images  | **Campaign quote RHS header runs across 2 or 3 lines** 1x image described as _dss graphic_  |
 | All combinations | Headings | **Top**, **Default tag**, **Not sure where to start? Call us on 1300 84 74 66** identify as a headings |
 | All combinations | Landmarks | Multiple unnamed navigation landmark regions |
+| All combinations | Lists  | Side menu list items are navigable when menu is closed  |
