@@ -25,12 +25,12 @@
 
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_minus_sign:  | :white_circle:  | :white_circle: | :white_circle:  |
-| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle: | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :white_circle:  | :white_circle: | :white_circle:  |
+| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   | :white_circle:  | :white_circle:  | :white_circle:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
@@ -43,3 +43,4 @@
 | All combinations | Images  | **The Sea, The Sea, The Glorious Sea…** 2x image described as _img..._  |
 | All combinations | Images  | **Campaign quote RHS header runs across 2 or 3 lines** 1x image described as _dss graphic_  |
 | All combinations | Headings | **Top**, **Default tag**, **Not sure where to start? Call us on 1300 84 74 66** identify as a headings |
+| All combinations | Landmarks | Multiple unnamed navigation landmark regions |
