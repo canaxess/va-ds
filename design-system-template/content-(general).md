@@ -19,12 +19,12 @@
 
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark: | :white_circle:  | :white_circle:  |
-| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  |
-| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  |
-| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark: | :heavy_check_mark:  | :white_circle: | :white_circle:  |
-| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle: | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  |
-| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :white_circle:  |
+| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark: | :white_circle:  | :heavy_check_mark:  |
+| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  |
+| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  |
+| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark: | :heavy_check_mark:  | :white_circle: | :heavy_check_mark:  |
+| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle: | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  |
+| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  | :heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
@@ -38,3 +38,4 @@
 | All combinations | Images | **Campaign images LHS header runs across 2 Or 3 lines** 2x image described as _img graphic_
 | All combinations | Headings | 5x instances of the text **text summary** as a heading
 | Chrome, Edge JAWS & NVDA | Tables | 2x instances of tables used for layout on Google Maps widget
+| All combinations | Form Controls | YouTube and Google Maps form controls may be difficult to identify for individual videos and maps
