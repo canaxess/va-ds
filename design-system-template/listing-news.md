@@ -35,3 +35,5 @@
 | Chrome, Edge, FireFox NVDA | Form Controls | When **Sort By** is collapsed pressing <kbd>R</kbd> describes _there are no radio buttons on this page_ |
 | Chrome, Edge, FireFox JAWS NVDA | Sort | Control collapses and last focus position is lost when **most recent** is selected |
 | Chrome, Edge, FireFox JAWS | Sort | Last focus position is lost when **most recent** is selected |
+| Edge, FireFox JAWS | Filter | Control collapses when **19th century authors** is toggled |
+| FireFox JAWS | Filter | Last focus position is lost when **19th century authors** is selected |
