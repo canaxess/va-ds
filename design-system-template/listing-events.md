@@ -42,3 +42,5 @@
 | All combinations | Form Controls | When **Sort By**, **Topic**, **Location**, **When** are collapsed checkbox and radio buttons are not identified  |
 |All combinations| Sort By |Last focus position is lost when **least recent** is selected
 |All combinations| Sort By |Control collapses and last focus position is lost when **most recent** is selected
+|Chrome, Edge, FireFox JAWS | Topic |Last focus position is lost when **Community Work** is selected
+|All combinations | Topic |Control collapses and last focus position is lost when **Community Work** is selected
