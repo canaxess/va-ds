@@ -32,7 +32,7 @@
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
-| All combinations | Images | Uncessary `ALT` text on 2x image **Embedded Map**, **Embedded Map 2** described as _View Google map graphic_, _Share location graphic_
+| All combinations | Images | Unnecessary `ALT` text on 2x image **Embedded Map**, **Embedded Map 2** described as _View Google map graphic_, _Share location graphic_
 | All combinations | Images | **Download Program** 1x image described as _publication image graphic_
 | All combinations | Images | **Media 1x image** described as _test graphic_
 | All combinations | Images | **Campaign images LHS header runs across 2 Or 3 lines** 2x image described as _img graphic_
