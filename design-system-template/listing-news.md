@@ -16,7 +16,7 @@
 ## Screen reader testing
 - Form control navigation using the keys <kbd>F</kbd>, <kbd>B</kbd>, <kbd>X</kbd>, (<kbd>R</kbd> NVDA only)
 
-|   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls | Sort & Filter | Pager |
+|   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls | Sort & Filter | Pagination |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 | Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
@@ -37,5 +37,5 @@
 | Chrome, Edge, FireFox JAWS | Sort | Last focus position is lost when **most recent** is selected |
 | Edge, FireFox JAWS NVDA | Filter | Control collapses when **19th century authors** is toggled |
 | FireFox JAWS | Filter | Last focus position is lost when **19th century authors** is selected |
-|Chrome, Edge, FireFox NVDA JAWS | Pager | Curent pagination page does not update when **Page 2** is selected from keyboard |
-|Chrome, Edge, FireFox NVDA JAWS | Pager | Last focus position is lost when **Page 3** is selected from keyboard |
+|Chrome, Edge, FireFox NVDA JAWS | Pagination | Curent pagination page does not update when **Page 2** is selected from keyboard |
+|Chrome, Edge, FireFox NVDA JAWS | Pagination | Last focus position is lost when **Page 3** is selected from keyboard |
