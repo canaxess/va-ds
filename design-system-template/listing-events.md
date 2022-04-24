@@ -44,3 +44,5 @@
 |All combinations| Sort By |Control collapses and last focus position is lost when **most recent** is selected
 |Chrome, Edge, FireFox JAWS | Topic |Last focus position is lost when **Community Work** is selected
 |All combinations | Topic |Control collapses and last focus position is lost when **Community Work** is selected
+|Chrome, Edge, FireFox JAWS | Location |Last focus position is lost when **NSW** is selected
+|All combinations | Location |Control collapses and last focus position is lost when **NSW** is selected
