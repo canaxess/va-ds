@@ -40,3 +40,5 @@
 |---|:-:|---|
 | All combinations | Headings  | All `<h3>` card heading elements not navigable  |
 | All combinations | Form Controls | When **Sort By**, **Topic**, **Location**, **When** are collapsed checkbox and radio buttons are not identified  |
+|All combinations| Sort By |Last focus position is lost when **least recent** is selected
+|All combinations| Sort By |Control collapses and last focus position is lost when **most recent** is selected
