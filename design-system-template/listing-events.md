@@ -39,4 +39,4 @@
 |  | Element  | Notes |
 |---|:-:|---|
 | All combinations | Headings  | All `<h3>` card heading elements not navigable  |
-| All combinations | Form Controls | When sort & filter controls are collapsed checkbox and radio buttons are not identified  |
+| All combinations | Form Controls | When **Sort By**, **Topic**, **Location**, **When** are collapsed checkbox and radio buttons are not identified  |
