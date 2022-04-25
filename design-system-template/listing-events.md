@@ -31,7 +31,7 @@
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_minus_sign:  | :x:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_check_mark:   | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_minus_sign:  | :x:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :x:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
-| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle: |
+| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_minus_sign:  |:heavy_check_mark: | :grey_question:  | :heavy_minus_sign:  |:heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle: |
 
@@ -40,6 +40,7 @@
 |---|:-:|---|
 | All combinations | Headings  | All `<h3>` card heading elements not navigable  |
 | All combinations | Form Controls | When **Sort By**, **Topic**, **Location**, **When** are collapsed checkbox and radio buttons are not identified  |
+| iOS | Links | Individual card elements are focusable using rotor link navigation |
 |All combinations| Sort By |Last focus position is lost when **least recent** is selected
 |All combinations| Sort By |Control collapses and last focus position is lost when **most recent** is selected
 |Chrome, Edge, FireFox JAWS | Topic |Last focus position is lost when **Community Work** is selected
@@ -49,3 +50,4 @@
 |Chrome, Edge, FireFox JAWS | When |Last focus position is lost when **This week** is selected
 |All combinations | When |Control collapses and last focus position is lost when **This week** is toggled
 |MacOS | Lists | Elipsis ignored and described on the pagination control links 
+|iOS | Pagination | Last focus position is lost when **2** is selected
