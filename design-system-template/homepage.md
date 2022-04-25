@@ -3,9 +3,10 @@
 - Links within the body content change colour only when in keyboard focus
 
 ## Highly recommended usability suggestions for screen reader users
+- None
 
 ## Future proofing type suggestions
-
+- None
 ## Screen reader testing
 - Form control navigation using the keys <kbd>F</kbd>, <kbd>B</kbd>, <kbd>X</kbd>, (<kbd>R</kbd> NVDA only)
 - Irregular behaviour with navigating landmarks VoiceOver MacOS and iOS
