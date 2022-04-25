@@ -31,7 +31,7 @@
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:  |
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:  |
-| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_check_mark:  | :heavy_check_mark:  | :grey_question:  | :heavy_minus_sign:  | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_check_mark:  | :heavy_check_mark:   | :grey_question:   | :heavy_minus_sign: | :heavy_check_mark:   | :heavy_check_mark:   | :heavy_check_mark:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 
@@ -47,5 +47,6 @@
 | All combinations | Lists  | Side menu list items are navigable when menu is closed  |
 | All combinations | Links  | **Top** unreachable
 | All combinations | Links  | **1300 84 74 66** described as _phone no_
+|iOS | Links | Navigation appears to become stuck in the card content |
 | Chrome, Edge, Firefox NVDA | Links | **News/Blog component with images** 2x image described as _img graphic..._
 | All combinations | Form Controls  | YouTube form controls may be difficult to identify for individual videos
