@@ -16,7 +16,7 @@
 - Desktop menu expand link has no accessible name
 
 ## Highly recommended usability suggestions for screen reader users
-
+- None
 ## Future proofing type suggestions
 - The `<nav>` landmark and `aria-label` attribute (with a unique name) is missing from the breadcrumb navigation
 
