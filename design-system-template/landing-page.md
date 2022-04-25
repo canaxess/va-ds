@@ -32,7 +32,7 @@
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:   | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_minus_sign:  |
+| MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_check_mark:  | :heavy_check_mark:  | :grey_question:   | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_minus_sign:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 
 ### Observations
