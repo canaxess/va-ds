@@ -1,4 +1,5 @@
 # CONTENT NEWS
+[Duplicate content - content (general)](https://github.com/canaxess/visionaustralia-designsystem/blob/main/design-system-template/content-(general).md)
 ## WCAG compliance related to 2.1 AA
 - A HTML table is used on the embedded Google Maps for presentation purposes without the semantics being suppressed
 - Links within the body content change colour only when in keyboard focus
