@@ -10,7 +10,7 @@
 -  Phone number link has `aria-label="phone no"`
 
 ## Highly recommended usability suggestions for screen reader users
-
+- None
 ## Future proofing type suggestions
 - Typo **Short by** when zoomed to 400%
 - Irregular heading levels applied, `<h3>` on the cards with no preceeding `<h2>`
