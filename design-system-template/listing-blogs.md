@@ -34,3 +34,5 @@
 |---|:-:|---|
 | All combinations JAWS |Link | When a badge exists, the card badge content is announced only _accessibility blog categories_  |
 | All combinations | Form Controls | When **Sort By**, **Topic** are collapsed checkbox and radio buttons are not identified  |
+|All combinations JAWS| Sort By |Last focus position is lost when **least recent** is selected
+|All combinations| Sort By |Control collapses and last focus position is lost when **most recent** is selected
