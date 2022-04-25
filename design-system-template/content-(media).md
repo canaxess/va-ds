@@ -17,7 +17,7 @@
 
 ### Legend
 - :heavy_check_mark: = Element exists and is applied correctly
-- :x: = Element exists and is not working correctly
+- :x: = Element exists and is not applied correctly
 - :heavy_minus_sign: = Element does not exist
 - :grey_question:= Unclear screen reader behaviour
 - :white_circle: = Test not run
