@@ -25,7 +25,7 @@
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_minus_sign:  |:heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
-| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |:white_circle:|:white_circle:|
+| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  |  :grey_question:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:  | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |:white_circle:|:white_circle:|
 
@@ -38,3 +38,4 @@
 |All combinations| Sort By |Control collapses and last focus position is lost when **most recent** is selected
 |All combinations JAWS| Topic |Last focus position is lost when **accessibility** is selected
 |All combinations| Topic |Control collapses and last focus position is lost when **accessibility** is toggled
+|iOS|Links|Links	Individual card elements are focusable using rotor link navigation
