@@ -24,7 +24,7 @@
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
-| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:
+| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:   | :grey_question:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:
 
@@ -35,7 +35,7 @@
 | Chrome, Edge, FireFox NVDA | Form Controls | When **Sort By** is collapsed pressing <kbd>R</kbd> describes _there are no radio buttons on this page_ |
 | All combinations | Sort | Control collapses and last focus position is lost when **most recent** is selected |
 | All combinations | Sort | Last focus position is lost when **most recent** is selected |
-| Edge, FireFox, Safari JAWS NVDA MacOS | Filter | Control collapses when **19th century authors** is toggled |
+| Edge, FireFox, Safari JAWS NVDA MacOS iOS | Filter | Control collapses when **19th century authors** is toggled |
 | FireFox, Safari JAWS MacOS | Filter | Last focus position is lost when **19th century authors** is selected |
 |All combinations | Pagination | Curent pagination page does not update when **Page 2** is selected from keyboard |
 |All combinations | Pagination | Last focus position is lost when **Page 3** is selected from keyboard |
