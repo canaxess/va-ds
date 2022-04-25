@@ -18,7 +18,7 @@
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
+| MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_check_mark:  | :heavy_check_mark:  | :grey_question:   | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_minus_sign:  |:white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
 
 ### Observations
@@ -28,6 +28,7 @@
 | All combinations | Lists  | Each breadcrumb item is contained in its own landmark `role="navigation"` |
 | All combinations | Links  | Unable to tab reach **Contact us** link |
 | All combinations | Links  | Side menu links are navigable when menu is closed |
+| MacOS | Headings | **Home page headline line 1 page headline.** are 2 `<h1>` heading elements |
 | All combinations | Landmarks  | Vision Australia footer logo is identified as a landmark region |
 | Chrome, Edge NVDA | Side Menu | No indication menu has expanded |
 | Chrome, Edge JAWS NVDA | Side Menu | No indication sub-menu items have expanded |
