@@ -6,7 +6,7 @@
 - **On this page** side links have no keyboard focus effect
 
 ## Highly recommended usability suggestions for screen reader users
-
+- None
 ## Future proofing type suggestions
 - Irregular heading levels applied, a `<h5>`**On this page** followed by `<h2>`**Video Title**
 - YouTube video has insufficient title text
