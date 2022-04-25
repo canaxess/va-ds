@@ -33,9 +33,9 @@
 |---|:-:|---|
 | Chrome, Edge, FireFox JAWS | Form Controls | When **Topic** is collapsed pressing <kbd>X</kbd> describes _there are no checkboxes on this page_ |
 | Chrome, Edge, FireFox NVDA | Form Controls | When **Sort By** is collapsed pressing <kbd>R</kbd> describes _there are no radio buttons on this page_ |
-| Chrome, Edge, FireFox, Safari JAWS NVDA MacOS | Sort | Control collapses and last focus position is lost when **most recent** is selected |
-| Chrome, Edge, FireFox, Safari JAWS MacOS | Sort | Last focus position is lost when **most recent** is selected |
+| All combinations | Sort | Control collapses and last focus position is lost when **most recent** is selected |
+| All combinations | Sort | Last focus position is lost when **most recent** is selected |
 | Edge, FireFox, Safari JAWS NVDA MacOS | Filter | Control collapses when **19th century authors** is toggled |
 | FireFox, Safari JAWS MacOS | Filter | Last focus position is lost when **19th century authors** is selected |
-|Chrome, Edge, FireFox NVDA JAWS | Pagination | Curent pagination page does not update when **Page 2** is selected from keyboard |
-|Chrome, Edge, FireFox NVDA JAWS | Pagination | Last focus position is lost when **Page 3** is selected from keyboard |
+|All combinations | Pagination | Curent pagination page does not update when **Page 2** is selected from keyboard |
+|All combinations | Pagination | Last focus position is lost when **Page 3** is selected from keyboard |
