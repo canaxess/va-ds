@@ -8,7 +8,7 @@
 - **Download Program** is obscured by **MP3 1.04 MB)** when WCAG 2.1 AA text spacing requirements are applied
 
 ## Highly recommended usability suggestions for screen reader users
-
+- None
 ## Future proofing type suggestions
 - Unecessary ALT text below Embedded Map on the decorative icon images **View Google Map** and **Share location**
 - Irregular heading levels applied, `<h5>` is used for **On this page** with no preceeding lower heading level
