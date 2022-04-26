@@ -35,7 +35,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_check_mark:  | :heavy_check_mark:  | :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_check_mark:  | :heavy_check_mark:  | :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:   | :x: |
-| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :white_circle:  | :white_circle:  | :grey_question:  | :grey_question:  | :white_circle:  | :white_circle:  | :white_circle: |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :grey_question:  | :grey_question:  | :heavy_check_mark:   |  :heavy_check_mark:  | :heavy_check_mark:  |
 
 ### Observations
 |  | Element  | Notes |
@@ -50,3 +50,5 @@
 | Chrome JAWS | Landmarks | 2x Google Maps are contained in an unusually described landmark region _847 map_, _890 map_
 | All combinations | Links | Unclear link text in table rows described as _sad_, _sd_, _sada_, _asd_
 | MacOS VoiceOver | Accordion | Collapsed and expanded not conveyed by the screen reader |
+| TalkBack | Landmarks | Significant number of unnamed landmark regions |
+| TalkBack | Headings | **Top** heading is interpreted as a control due to the `onkeypress` and `onclick` event handler |
