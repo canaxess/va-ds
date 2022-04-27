@@ -40,7 +40,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :x:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_minus_sign:  |:heavy_check_mark: | :grey_question:  | :heavy_minus_sign:  |:heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  |
-| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :white_circle:  | :white_circle:  | :grey_question:  | :grey_question:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle: |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:   | :heavy_check_mark:   | :grey_question:  | :grey_question:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 
 ### Observations
 |  | Element  | Notes |
@@ -58,3 +58,4 @@
 |All combinations | When |Control collapses and last focus position is lost when **This week** is toggled
 |MacOS | Lists | Elipsis ignored and described on the pagination control links 
 |iOS | Pagination | Last focus position is lost when **2** is selected
+| TalkBack | Headings | **Top** heading is interpreted as a control due to the `onkeypress` and `onclick` event handler |
