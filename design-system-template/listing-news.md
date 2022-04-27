@@ -33,7 +33,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:   | :grey_question:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:
-| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :white_circle:  | :white_circle:  | :grey_question:  | :grey_question:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark: | :heavy_check_mark:  | :grey_question:  | :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 
 ### Observations
 |  | Element  | Notes |
@@ -44,5 +44,6 @@
 | All combinations | Sort | Last focus position is lost when **most recent** is selected |
 | Edge, FireFox, Safari JAWS NVDA MacOS iOS | Filter | Control collapses when **19th century authors** is toggled |
 | FireFox, Safari JAWS MacOS | Filter | Last focus position is lost when **19th century authors** is selected |
-|All combinations | Pagination | Curent pagination page does not update when **Page 2** is selected from keyboard |
+|All combinations (Exc TalkBack) | Pagination | Curent pagination page does not update when **Page 2** is selected from keyboard |
 |All combinations | Pagination | Last focus position is lost when **Page 3** is selected from keyboard |
+| TalkBack | Headings | **Top** heading is interpreted as a control due to the `onkeypress` and `onclick` event handler |
