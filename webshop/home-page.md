@@ -8,3 +8,5 @@
 - none
 ## Future proofing type suggestions
 - none
+## Previous observed behaviour
+- Cards have been marked up with `role="button"`, which won't allow screen readers to access to semantic information, eg, headings, lists etc within the button. This no longer applies.
