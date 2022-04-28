@@ -34,7 +34,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  |  :grey_question:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				| :heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:  | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:  |:heavy_check_mark:|:heavy_check_mark:|
-| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :white_circle:  | :white_circle:  | :grey_question:  | :grey_question:  | :white_circle:  | :white_circle:  |:white_circle:|:white_circle:|
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :grey_question:  | :grey_question:  | :heavy_check_mark:  | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|
 
 ### Observations
 |  | Element  | Notes |
@@ -45,4 +45,6 @@
 |All combinations| Sort By |Control collapses and last focus position is lost when **most recent** is selected
 |All combinations JAWS| Topic |Last focus position is lost when **accessibility** is selected
 |All combinations| Topic |Control collapses and last focus position is lost when **accessibility** is toggled
-|iOS|Links|Links	Individual card elements are focusable using rotor link navigation
+|iOS|Links| Individual card elements are focusable using rotor link navigation
+|TalkBack|Links|Inividual card elements have verbose link text comprising of the tag, header, text and date
+| TalkBack | Headings | **Top** heading is interpreted as a control due to the `onkeypress` and `onclick` event handler |
