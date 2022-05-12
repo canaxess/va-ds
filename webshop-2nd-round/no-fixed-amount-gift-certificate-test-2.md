@@ -24,8 +24,8 @@
 |  | Element  | Notes |
 |---|:-:|---|
 | All combinations | Images  | An `img` element with missing `ALT` attribute exists  |
-| Edge + JAWS | Images  | "There are no graphics on this page" even though an `img` element with missing `ALT` attribute exists  |
-| FireFox + JAWS | Images  | "Default slash small underline image graphic" on `img` element with missing `ALT` attribute exists  |
-| Edge, FireFox + NVDA | Images  | "No next graphic" even though an `img` element with missing `ALT` attribute exists  |
-| Edge, Chrome + JAWS | Links  | **Login**, **Cart** are announced  |
-| Edge, Chrome + JAWS | Landmarks  | **Stock clearance up to 30% off...** banner region unannounced  |
+| Edge JAWS | Images  | "There are no graphics on this page" even though an `img` element with missing `ALT` attribute exists  |
+| FireFox JAWS | Images  | "Default slash small underline image graphic" on `img` element with missing `ALT` attribute exists  |
+| Edge, FireFox NVDA | Images  | "No next graphic" even though an `img` element with missing `ALT` attribute exists  |
+| Edge, Chrome JAWS | Links  | **Login**, **Cart** are announced  |
+| Edge, Chrome JAWS | Landmarks  | **Stock clearance up to 30% off...** banner region unannounced  |
