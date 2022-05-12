@@ -1,5 +1,5 @@
 ## Highly recommended usability suggestions for screen reader users
-- **Prev** is unannounced on pager control on first page of results
+- **Prev** is unannounced as a list item on pager control on first page of results
 
 ## Screen reader testing
 - Form control navigation using the keys <kbd>F</kbd>, <kbd>B</kbd>, <kbd>X</kbd>, (<kbd>R</kbd> NVDA only)
