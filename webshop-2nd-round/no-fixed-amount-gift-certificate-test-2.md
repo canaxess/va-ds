@@ -10,12 +10,12 @@
 
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :white_circle:  |
-| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :x:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :white_circle:  |
-| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :x: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :white_circle:  |
-| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :x:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :white_circle:  |
-| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :x:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :white_circle:  |
-| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :x:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_check_mark:  |:white_circle:  |
+| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :grey_question:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  |:x: |
+| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :x:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :x:  |
+| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :x: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :x:  |
+| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :x:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :x:  |
+| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :x:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :x:  |
+| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :x:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_check_mark:  |:x:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:white_circle:  | :white_circle:   | :white_circle:   | :white_circle: | :white_circle:   | :white_circle:   | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
@@ -29,3 +29,7 @@
 | Edge, FireFox NVDA | Images  | "No next graphic" even though an `img` element with missing `ALT` attribute exists  |
 | Edge, Chrome JAWS | Links  | **Login**, **Cart** are announced  |
 | Edge, Chrome JAWS | Landmarks  | **Stock clearance up to 30% off...** banner region unannounced  |
+| Edge, FireFox, Chrome JAWS NVDA | Form controls | **Amount (required)**, **Message** labels unannounced
+| Edge, FireFox, Chrome JAWS NVDA | Form controls | Unclear banner dismiss button **close above message button**
+| Edge, FireFox, Chrome JAWS NVDA  | Form controls | Hidden input `name="am_giftcard_amount_custom"` focusable
+| Edge, FireFox Chrome NVDA | Form Controls | All form inputs unannounced |
