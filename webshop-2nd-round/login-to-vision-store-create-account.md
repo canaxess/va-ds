@@ -13,9 +13,9 @@
 | Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_minus_sign: | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign: | :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_check_mark:  |
 | Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  |
 | FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_check_mark:  |
-| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  |
-| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  |
-| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:   | :white_circle:  | :white_circle:  |:white_circle:  |
+| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_check_mark: | :heavy_check_mark: |
+| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	|:heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  |
+| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_minus_sign:   | :heavy_minus_sign: | :heavy_check_mark:  |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:white_circle:  | :white_circle:   | :white_circle:   | :white_circle: | :white_circle:   | :white_circle:   | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
@@ -23,4 +23,5 @@
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
-| ~Edge JAWS~ | Form controls  | **Login**, **Create account** tab ordering changes depending on which control is selected  |
+| Edge, FireFox, Chrome JAWS | Links  | Tab link unfocusable using the keys <kbd>U</kbd>, <kbd>V</kbd>  |
+| Edge, FireFox, Chrome NVDA | Links  | Tab link focusable using the key <kbd>K</kbd>  |
