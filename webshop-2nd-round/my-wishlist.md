@@ -26,3 +26,5 @@
 | All combinations | Links  |  Duplicate link on each item image and heading element |
 | Edge, FireFox, Chrome JAWS | Form Controls | Plus and minus quantity buttons ouput _die minus_, or _die plus_
 | Edge, FireFox, Chrome JAWS | Form Controls | Focus is lost when **Quantity**, **Remove from wishlist** button are activated	
+
+**TODO with NVDA**
