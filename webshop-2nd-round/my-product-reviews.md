@@ -23,4 +23,4 @@
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
-| Edge, FireFox, Chrome JAWS | Lists  | Single list item identified on **Tactile Puzzle Cube - Modified for the Blind** image |
+| Edge, FireFox, Chrome NVDA | Lists  | Single list item identified on **Tactile Puzzle Cube - Modified for the Blind** image |
