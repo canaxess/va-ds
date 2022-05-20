@@ -23,4 +23,5 @@
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
-| ~All combinations~ | ~Images~  | ~**Image Block RHS Heading Runs Across 1-2 Lines** 1x image described _img graphic_~  |
+Edge, FireFox, Chrome JAWS | Form controls | checkbox not checked identified after Add new address|
+Edge, FireFox, Chrome JAWS | Form controls |  checkbox not checked identified when pressing <kbd>X</kbd>|
