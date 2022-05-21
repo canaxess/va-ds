@@ -16,7 +16,7 @@
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:  |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:   | :heavy_check_mark:   | :heavy_check_mark:   |:heavy_check_mark:  |
-| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:   |
+| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :grey_question: | :heavy_check_mark:  | :heavy_check_mark:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:white_circle:  | :white_circle:   | :white_circle:   | :white_circle: | :white_circle:   | :white_circle:   | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
 
@@ -24,4 +24,5 @@
 |  | Element  | Notes |
 |---|:-:|---|
 All combinations | Form controls | checkbox not checked identified after Add new address|
-All combinations | Form controls |  checkbox not checked identified when pressing <kbd>X</kbd>|
+All combinations | Form controls | checkbox not checked identified when pressing <kbd>X</kbd>|
+iOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
