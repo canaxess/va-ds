@@ -16,7 +16,7 @@
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_check_mark:   | :heavy_check_mark:   | :heavy_minus_sign:  | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  |
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:   | :heavy_check_mark:   | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:   |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:   | :heavy_check_mark:   | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_minus_sign:   |
-| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:   |
+| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :grey_question: | :heavy_check_mark: | :heavy_minus_sign:  |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:white_circle:  | :white_circle:   | :white_circle:   | :white_circle: | :white_circle:   | :white_circle:   | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
 
@@ -24,3 +24,4 @@
 |  | Element  | Notes |
 |---|:-:|---|
 | All combinations | Lists  | Single list item identified on **Tactile Puzzle Cube - Modified for the Blind** image |
+iOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
