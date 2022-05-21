@@ -16,12 +16,12 @@
 | Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_check_mark: | :x:  |
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark: | :heavy_check_mark:  | :heavy_minus_sign:| :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_check_mark:  | :x:  |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:   | :heavy_minus_sign:  | :heavy_check_mark:  |:x:  |
-| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :white_circle:  | :white_circle:  | :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:   |
+| iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_minus_sign: | :heavy_check_mark:  | :x:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:white_circle:  | :white_circle:   | :white_circle:   | :white_circle: | :white_circle:   | :white_circle:   | :white_circle:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
 
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
-| Edge, FireFox, Chrome JAWS | Form Controls  | Unannounced **Message** input label  |
-| Edge, FireFox, Chrome NVDA | Form Controls  | Unannounced form control input labels  |
+| All combinations | Form Controls  | Unannounced **Message** input label  |
+| All combinations | Form Controls  | Unannounced form control input labels  |
