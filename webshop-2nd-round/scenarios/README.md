@@ -1,5 +1,5 @@
 # Scenario testing
-Scenarios were tested with Chrome <sup>v101</sup> and the screen reader NVDA <sup>v2020</sup>. The testing attempted to understand how well the scenarios could be navigated using the screen reader output.
+Scenarios were tested with Chrome <sup>v101</sup> and the screen reader NVDA <sup>v2020</sup>. The testing attempted to understand how well the scenarios are navigated using the screen reader output.
 | Scenario   |      Result      | 
 |:----------|:-------------:|
 | [Adding a product to wishlist](https://github.com/canaxess/visionaustralia-designsystem/blob/main/webshop-2nd-round/scenarios/adding-a-product-to-wishlist.md) |  Pass :heavy_check_mark:
