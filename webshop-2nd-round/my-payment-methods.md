@@ -17,7 +17,7 @@
 | Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_minus_sign:    | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :grey_question: | :heavy_check_mark:  | :heavy_check_mark:   |
-| MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:white_circle:  | :white_circle:   | :white_circle:   | :white_circle: | :white_circle:   | :white_circle:   | :white_circle:  |
+| MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_check_mark:  | :heavy_check_mark:   | :grey_question:   | :heavy_minus_sign:  | :grey_question:   | :heavy_check_mark:  | :heavy_check_mark: |
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
 
 ### Observations
@@ -25,5 +25,5 @@
 |---|:-:|---|
 All combinations | Images | Credit cards described as **Cards graphic**
 All combinations | Form controls | Screen focus on submit button when **Add new credit/debit card** dialog is open 
-iOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
-iOS VoiceOver | Form Controls | Can navigate through form controls on **Add new credit/debit card** dialog when dialog is closed |
+iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
+iOS, MacOS VoiceOver | Form Controls | Can navigate through form controls on **Add new credit/debit card** dialog when dialog is closed |
