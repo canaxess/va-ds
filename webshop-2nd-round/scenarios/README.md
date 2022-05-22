@@ -8,4 +8,4 @@ Scenarios were tested with Chrome <sup>v101</sup> and the screen reader NVDA <su
 | [Product details - Check availability for Click & Collect](https://github.com/canaxess/visionaustralia-designsystem/blob/main/webshop-2nd-round/scenarios/product-details-check-availability-for-click-collect.md) | Fail :x: |
 |[Product details - Check availability in store](https://github.com/canaxess/visionaustralia-designsystem/blob/main/webshop-2nd-round/scenarios/product-details-check-availability-in-store.md) |Fail :x: |
 |[my-addresses - Add new address](https://github.com/canaxess/visionaustralia-designsystem/blob/main/webshop-2nd-round/scenarios/my-addresses-add-new-address.md) |Fail :x: |
-|[my-payment-methods - Add new payment method](https://github.com/canaxess/visionaustralia-designsystem/blob/main/webshop-2nd-round/scenarios/my-payment-methods-add-new-payment-method.md) | |
+|[my-payment-methods - Add new payment method](https://github.com/canaxess/visionaustralia-designsystem/blob/main/webshop-2nd-round/scenarios/my-payment-methods-add-new-payment-method.md) |Pass (with difficulty) :heavy_check_mark: |
