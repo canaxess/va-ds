@@ -2,7 +2,7 @@
 Beginning from **Checkout** page
 - The **skip to main content** link is located as the first link in the keyboard <kbd>Tab</kbd> sequence and is clicked to navigate to the content
 - The heading is described clearly
-- The <kbd>H</kbd> key is used to navigate to the **my-addresses - Add new address** subheading
+- The <kbd>H</kbd> key is used to navigate to the **1. Choose delivery or collection option** subheading
 - The <kbd>Tab</kbd> key is pressed to navigate to **Change address** and is pressed
 - The **Change address** dialog is clearly described
 - The <kbd>Tab</kbd> key is pressed to navigate to **Add new address** and is pressed
