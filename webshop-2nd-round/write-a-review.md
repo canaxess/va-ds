@@ -21,6 +21,4 @@
 | Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
 
 ### Observations
-|  | Element  | Notes |
-|---|:-:|---|
-| ~All combinations~ | ~Images~  | ~**Image Block RHS Heading Runs Across 1-2 Lines** 1x image described _img graphic_~  |
+- None
