@@ -24,7 +24,7 @@
 |  | Element  | Notes |
 |---|:-:|---|
 | All combinations | Links  |  Duplicate link on each item image and heading element |
-| Edge, FireFox, Chrome JAWS | Form Controls | Plus and minus quantity buttons ouput _die minus_, or _die plus_
+| Edge, FireFox, Chrome JAWS | Form Controls | Plus and minus quantity buttons ouput "die minus", or "die plus"
 | All conbinations | Form Controls | Focus is lost when **Quantity**, **Remove from wishlist** button are activated	
 iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
-| Android TalkBack | Form Controls |  Plus and minus quantity buttons ouput _kew tie minus_, or _kew tie plus_
+| Android TalkBack | Form Controls |  Plus and minus quantity buttons ouput "kew tie minus", or "kew tie plus"
