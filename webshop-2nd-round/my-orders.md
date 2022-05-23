@@ -10,12 +10,12 @@
 
 |   |Screen Reader   | Images | Headings  |Landmarks   |Tables   | Lists |Links |Form Controls |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Edge <sup>v100</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  |
-| Chrome <sup>v100</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_minus_sign:  |
-| FireFox <sup>v99</sup> 	| JAWS <sup>v2021</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  |
-| Edge <sup>v100</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_minus_sign:   | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:   |
-| Chrome <sup>v100</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   |
-| FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_minus_sign:   |
+| Edge <sup>v101</sup> 		| JAWS <sup>v2021</sup> 	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  |
+| Chrome <sup>v101</sup> 	| JAWS <sup>v2021</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_minus_sign:  |
+| FireFox <sup>v100</sup> 	| JAWS <sup>v2021</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  |
+| Edge <sup>v101</sup> 		| NVDA <sup>v2020</sup> 	| :heavy_minus_sign:   | :heavy_check_mark: | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_minus_sign:   |
+| Chrome <sup>v101</sup> 	| NVDA <sup>v2020</sup>  	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   |
+| FireFox <sup>v100</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_minus_sign:   |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_check_mark:  | :grey_question: | :heavy_check_mark:  | :heavy_minus_sign:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:   | :heavy_check_mark: | :grey_question:   | :heavy_check_mark:    | :heavy_minus_sign:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_minus_sign: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :grey_question:  |
