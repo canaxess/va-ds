@@ -18,7 +18,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:   | :heavy_check_mark:   | :heavy_check_mark:   |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :grey_question: | :heavy_check_mark:  | :heavy_check_mark:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_minus_sign:   | :heavy_check_mark:   | :grey_question: | :heavy_minus_sign: | :grey_question:   | :heavy_check_mark:    | :heavy_check_mark:   |
-| Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_minus_sign: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :heavy_check_mark: |
 
 ### Observations
 |  | Element  | Notes |
@@ -27,3 +27,4 @@ All combinations | Form controls | checkbox not checked identified after Add new
 All combinations | Form controls | checkbox not checked identified when pressing <kbd>X</kbd>|
 iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
 MacOS VoiceOver | Links | <kbd>Shift</kbd> + <kbd>Tab</kbd> focuses onto links beneath **Add new address** dialog |
+All combinations | Form Controls | **Address** autocomplete in **Add new address** dialog does not announce results |
