@@ -18,9 +18,10 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_minus_sign:   |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:   | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_check_mark:  | :grey_question: | :heavy_check_mark:  | :heavy_minus_sign:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_minus_sign:  | :heavy_check_mark:  | :grey_question:   | :heavy_check_mark: | :grey_question:   | :heavy_check_mark:    | :heavy_minus_sign:  |
-| Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_minus_sign: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :grey_question:  |
 
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
 iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
+Android TalkBack | Form Controls | Table focused and navigated when using control navigation | 
