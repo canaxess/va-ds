@@ -18,10 +18,10 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign: | :heavy_minus_sign:   | :heavy_minus_sign: | :heavy_check_mark:  |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :heavy_minus_sign: | :heavy_check_mark:  | :heavy_check_mark:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_minus_sign: | :heavy_check_mark:   | :grey_question:   | :heavy_minus_sign: | :grey_question:   | :heavy_check_mark:   | :heavy_check_mark:   |
-| Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question: | :heavy_check_mark:  | :heavy_check_mark: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :heavy_check_mark:  |
 
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
-| Edge, FireFox, Chrome JAWS | Links  | Tab link unfocusable using the keys <kbd>U</kbd>, <kbd>V</kbd>  |
-| Edge, FireFox, Chrome NVDA | Links  | Tab link focusable using the key <kbd>K</kbd>  |
+| Edge, FireFox, Chrome JAWS | Links  | Tab control unfocusable using the keys <kbd>U</kbd>, <kbd>V</kbd>  |
+| Edge, FireFox, Chrome NVDA | Links  | Tab control focusable using the key <kbd>K</kbd>  |
