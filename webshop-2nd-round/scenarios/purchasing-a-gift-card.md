@@ -8,7 +8,7 @@ Beginning from **$100 gift card** page
 - The **Add to cart** button is labelled prominently and is activated
 - The gift card added to the cart is communicated through the screen reader
 - The screen reader Elements list is used to identify the cart link
-- **Cart11items** sounds closest to the cart and is activated
+- **Cart11items** sounds closest to the shopping cart and is activated
 
 ## **Your cart** page
 - The **skip to main content** link is located as the first link in the keyboard <kbd>Tab</kbd> sequence and is clicked to navigate to the content
