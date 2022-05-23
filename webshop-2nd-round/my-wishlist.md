@@ -18,7 +18,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign: | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_minus_sign:  | :grey_question: | :heavy_check_mark:  | :heavy_check_mark:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_minus_sign:  | :heavy_check_mark:   | :grey_question:   | :heavy_minus_sign: | :grey_question:   | :heavy_check_mark:  | :heavy_check_mark:  |
-| Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_minus_sign: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :heavy_check_mark:  |
 
 ### Observations
 |  | Element  | Notes |
@@ -27,3 +27,4 @@
 | Edge, FireFox, Chrome JAWS | Form Controls | Plus and minus quantity buttons ouput _die minus_, or _die plus_
 | All conbinations | Form Controls | Focus is lost when **Quantity**, **Remove from wishlist** button are activated	
 iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
+| Android TalkBack | Form Controls |  Plus and minus quantity buttons ouput _kew tie minus_, or _kew tie plus_
