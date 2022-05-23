@@ -1,5 +1,6 @@
 # Screen reader testing
 - Form control navigation using the keys <kbd>F</kbd>, <kbd>B</kbd>, <kbd>X</kbd>, (<kbd>R</kbd> NVDA only)
+- Within TalkBack the swipe up, then down gesture is used to cycle through the elements **Links**, **Headings**, **Landmarks**, **Controls**
 
 ## Legend
 - :heavy_check_mark: = Element exists and is applied correctly
