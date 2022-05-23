@@ -1,7 +1,7 @@
-## Screen reader testing
+# Screen reader testing
 - Form control navigation using the keys <kbd>F</kbd>, <kbd>B</kbd>, <kbd>X</kbd>, (<kbd>R</kbd> NVDA only)
 
-### Legend
+## Legend
 - :heavy_check_mark: = Element exists and is applied correctly
 - :x: = Element exists and is not applied correctly
 - :heavy_minus_sign: = Element does not exist
@@ -20,7 +20,7 @@
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_check_mark:  | :heavy_check_mark:   | :grey_question:   | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_check_mark:   | :x:  |
 | Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_minus_sign: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :x:  |
 
-### Observations
+## Observations
 |  | Element  | Notes |
 |---|:-:|---|
 | All combinations | Images  | An `img` element with missing `ALT` attribute exists  |
