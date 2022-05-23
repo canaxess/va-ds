@@ -18,7 +18,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_minus_sign:    | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign:  | :grey_question: | :heavy_check_mark:  | :heavy_check_mark:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_check_mark:  | :heavy_check_mark:   | :grey_question:   | :heavy_minus_sign:  | :grey_question:   | :heavy_check_mark:  | :heavy_check_mark: |
-| Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_minus_sign: | :grey_question:  | :grey_question:  |:heavy_check_mark:   | :heavy_check_mark:   |
 
 ### Observations
 |  | Element  | Notes |
@@ -27,3 +27,4 @@ All combinations | Images | Credit cards described as **Cards graphic**
 All combinations | Form controls | Screen focus on submit button when **Add new credit/debit card** dialog is open 
 iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
 iOS, MacOS VoiceOver | Form Controls | Can navigate through form controls on **Add new credit/debit card** dialog when dialog is closed |
+Android TalkBack | Form Controls | Collapse/expand content not described by screen reader |
