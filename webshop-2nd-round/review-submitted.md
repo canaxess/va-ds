@@ -18,12 +18,9 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:   | :heavy_minus_sign:    | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:   |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_minus_sign:   | :heavy_minus_sign:   | :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:   |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_check_mark:  | :heavy_check_mark:   | :grey_question:   |  :heavy_minus_sign:  | :heavy_minus_sign:    | :heavy_check_mark:   | :heavy_minus_sign: |
-| Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :heavy_check_mark:  | :heavy_check_mark: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :heavy_minus_sign:  |
 
 ### Observations
 |  | Element  | Notes |
 |---|:-:|---|
 | Edge, FireFox, Chrome JAWS | Lists  | **Prev** is unannounced as a list item on pager control on first page of results  |
-
-
-* potential first testing page
