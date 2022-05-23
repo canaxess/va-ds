@@ -23,8 +23,8 @@
 ## Observations
 |  | Element  | Notes |
 |---|:-:|---|
-All combinations | Form controls | checkbox not checked identified after Add new address|
-All combinations | Form controls | checkbox not checked identified when pressing <kbd>X</kbd>|
+All combinations | Form controls | "checkbox not checked" identified after **Add new address**|
+All combinations | Form controls | "checkbox not checked" identified when pressing <kbd>X</kbd>|
 iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
 MacOS VoiceOver | Links | <kbd>Shift</kbd> + <kbd>Tab</kbd> focuses onto links beneath **Add new address** dialog |
 All combinations | Form Controls | **Address** autocomplete in **Add new address** dialog does not announce results |
