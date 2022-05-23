@@ -2,7 +2,7 @@
 Beginning from **Checkout** page
 - The **skip to main content** link is located as the first link in the keyboard <kbd>Tab</kbd> sequence and is clicked to navigate to the content
 - The heading is described clearly
-- Attempt to use the <kbd>H</kbd> key to navigate to the **4. Make a payment** subheading, however this is not a heading and instead focus is moved to **Gift Card**
+- Attempt to use the <kbd>H</kbd> key to navigate to **4. Make a payment** subheading, however this is not a heading and instead focus is moved to **Gift Card**
 - The <kbd>Tab</kbd> key is pressed to navigate to **Change card** and is pressed
 - The **Change card** dialog is clearly described
 - The <kbd>Tab</kbd> key is pressed to navigate to **Add a Credit/Dedit card** and is pressed
