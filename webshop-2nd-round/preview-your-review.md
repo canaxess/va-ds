@@ -18,7 +18,7 @@
 | FireFox <sup>v99</sup> 	| NVDA <sup>v2020</sup>   	| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  |  :heavy_minus_sign:    | :heavy_check_mark:  | :heavy_check_mark:  |:heavy_check_mark:  |
 | iOS <sup>v15.3.1</sup> 	| VoiceOver 				| :heavy_minus_sign:  | :heavy_check_mark:  | :heavy_minus_sign:  | :heavy_minus_sign: | :grey_question: | :heavy_check_mark:  | :heavy_check_mark:    |
 | MacOS <sup>v12.2.1</sup> 	| VoiceOver  				|:heavy_minus_sign:   | :heavy_check_mark:   | :grey_question:   | :heavy_minus_sign: | :grey_question:   | :heavy_check_mark:   | :heavy_check_mark:  |
-| Android <sup>v11</sup> 	| TalkBack 					| :white_circle:  | :white_circle:  | :white_circle: | :white_circle:  | :white_circle:  |:white_circle:  | :white_circle:  |
+| Android <sup>v11</sup> 	| TalkBack 					| :grey_question:  | :x:  | :heavy_check_mark: | :grey_question:  | :grey_question:  |:heavy_check_mark:  | :heavy_check_mark: |
 
 ### Observations
 |  | Element  | Notes |
@@ -27,3 +27,5 @@
 | All combinations | Lists  | List announced as "percent of today" due to `<span>` with attribute `itemprop="ratingValue"`  |
 | Edge, Chrome NVDA | Tables | Initial identification of table on ratings |
 iOS, MacOS VoiceOver | Lists | Lists not found when navigating via list elements on Rotor |
+Android TalkBack | Headings | Blank `<h2>` identified after **Preview your review** |
+Android TalkBack | Form Controls | Entire main content area highlighted when navigating in Controls mode |
